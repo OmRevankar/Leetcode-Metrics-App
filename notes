@@ -1,0 +1,8 @@
+2 ways we can fetch
+
+leetcode blocks our request 
+hence we make use of proxy request (using demo server) to access leetcode
+search cors anywhere demo server on google and make use from stack overflow
+https://cors-anywhere.herokuapp.com
+
+go to network -- response -- (google)json formatter
